@@ -15,7 +15,7 @@ We added dependencies for httpclient, okhttp, gson,retrofit and converter-gson t
 
 
 steps to run our chatbot.
-Step 1: Pull the code from gitlab https://gitlab.griffith.ie/ChickenSLAYER94/Chatbot
+Step 1: Pull the code from gitlab https://gitlab.griffith.ie/ChickenSLAYER94/Java-Chatbot
 
 Step 2: Make sure every code is its place.
 
